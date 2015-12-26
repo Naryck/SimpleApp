@@ -14,7 +14,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<jdk.version>1.8</jdk.version>
+		<jdk.version>1.7</jdk.version>
 		<spring.version>4.0.0.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<maven.tomcat.url>http://localhost:9090/manager/html</maven.tomcat.url>
