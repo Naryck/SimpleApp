@@ -9,7 +9,7 @@
 
 <body>
 	<center>
-		<img src="/Images/catlamp.png" width="800"/>
+		<img src="Images/catlamp.png" width="800"/>
 		<br>
 		<ol>
 			<li><a href="sendMessage">Send email.</a></li>
